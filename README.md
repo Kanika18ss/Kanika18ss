@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyc3g2YThlMHBvMmdnM3k0MHc1NzdrajU4emlmc2Vzb2NnY2hoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/kanika-choudhary-9746b9245/)">
+  <a href="[https://www.linkedin.com/in/kanika-choudhary-9746b9245/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -27,7 +27,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Leetcode and listen to music as music is the best therapy to keep one motivated and relaxed.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-choudhary-9746b9245/)
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/riya-arora-1389a622b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a> 
+
 
   ---
 
