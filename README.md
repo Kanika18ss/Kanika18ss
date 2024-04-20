@@ -4,9 +4,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyc3g2YThlMHBvMmdnM3k0MHc1NzdrajU4emlmc2Vzb2NnY2hoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[https://www.linkedin.com/in/kanika-choudhary-9746b9245/]">
+  <a href="https://www.linkedin.com/in/kanika-choudhary-9746b9245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ 
 </div>
    <h1 align="center">
   Hey there! Myself Kanika Choudhary
