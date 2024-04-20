@@ -1,27 +1,19 @@
-
-<div id="header" align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyc3g2YThlMHBvMmdnM3k0MHc1NzdrajU4emlmc2Vzb2NnY2hoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kanika-choudhary-9746b9245/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
  
 </div>
    <h1 align="center">
-  Hey there! Myself Kanika Choudhary
+  Hello Geeks! Myself Kanika Choudhary
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am Kanika Choudhary. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from Jaypee Institute of Information Technology, Noida. I am an experienced developer skilled in C++, Frontend Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m prefinal year student at Jaypee Institute Of Information Technology, Noida and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Internships opportunities worldwide.
